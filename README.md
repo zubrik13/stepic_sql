@@ -1,3 +1,3 @@
-# stepic_sql
+# stepik_sql
 
 ## various files from excercises
