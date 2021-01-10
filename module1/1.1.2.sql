@@ -38,6 +38,13 @@ into
 values
     ('Братья Карамазовы', 'Достоевский Ф.М.', 799.01, 2);
 
+insert
+into
+    book
+    (title, author, price, amount)
+values
+    ('Стихотворения и поэмы', 'Есенин С.А.', 650.00, 15);
+
 select * from book;
 
 
